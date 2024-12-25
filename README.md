@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @noviantosetyo24
-- 👀 I’m interested in Backend Engineer
-- 🌱 I’m currently learning NodeJs
-- 💞️ I’m looking to collaborate on Professional Job
-- 📫 How to reach me mailto noviantosetyo24@gmail.com
+- 👋 Hi, I’m Novianto Setyo
+
+My Skills:
+- PHP: Codeigniter, Laravel, Vue
+- Javascript: Ajax, NodeJs, ExpressJs
+- Database: MySQL, PostgreSQL, MongoDB
+- HTML & CSS
 
 <!---
 noviantosetyo24/noviantosetyo24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
