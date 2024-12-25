@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noviantosetyo24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Backend Engineer
+- 🌱 I’m currently learning NodeJs
+- 💞️ I’m looking to collaborate on Professional Job
 - 📫 How to reach me mailto noviantosetyo24@gmail.com
 
 <!---
