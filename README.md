@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Novianto Setyo
 
 My Skills:
-- PHP: Codeigniter, Laravel, Vue
-- Javascript: Ajax, NodeJs, ExpressJs
+- PHP: Codeigniter, Laravel
+- Javascript: Native, NodeJs, ExpressJs
 - Database: MySQL, PostgreSQL, MongoDB
 - HTML & CSS
 
